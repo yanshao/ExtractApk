@@ -5,9 +5,9 @@
         此项目的主要功能就是将安装过后的文件导出成apk 另存在手机目录，这样大家就可以分享apk给任何人了。
 
 
-
-https://github.com/yanshao/ExtractApk/blob/master/04addc33d3eedcf142c014774db5641.jpg
-
+![Alt text](/7a45ddf779cd2576fda8997d50c3789.jpg)
+![Alt text](/4b29023f124b7f023320f9b24960ebf.jpg)
+![Alt text](/04addc33d3eedcf142c014774db5641.jpg)
 
 二、实现思路
 
