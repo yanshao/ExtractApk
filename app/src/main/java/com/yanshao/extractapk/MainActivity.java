@@ -217,7 +217,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
- 
+
     private void showWaiting() {
         progressDialog = new ProgressDialog(this);
         progressDialog.setIcon(R.mipmap.ic_launcher);
